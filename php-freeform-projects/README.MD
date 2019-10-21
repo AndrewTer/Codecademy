@@ -14,3 +14,15 @@ We got our fill of fjords in Bergen, Norway and discovered 109 krones that went 
 We soaked up the sun and history in Saranda, Albania and found 9094 lek scattered throughout our luggage when we arrived home to NYC.
 
 The currency exchange business takes a flat $1 fee per conversion. Calculate our final amount of USD.
+
+### Mad Lib Functions
+Mad Libs are short stories with blank spaces, which get filled in by the user. The result is usually funny (or strange).
+
+Mad Libs require:
+* A short story with blank spaces (asking for different types of words). 
+* Words to fill in those blanks.
+
+For this project, we provide the story, but it will be up to you to create a function that:
+
+1. Takes desired words as arguments.
+2. Returns the story with the words put into blanks in the right place.
