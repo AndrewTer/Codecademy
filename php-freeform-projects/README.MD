@@ -41,6 +41,19 @@ Each step of the project provides a math operation that can be completed using b
 9. Use a PHP function to floor (round down) $h and store the result in $i.
 10. Subtract 47 from $i to arrive at the solution, $j.
 
+### HTML - PHP Calculator
+Apply your understanding of handling HTML forms in PHP to create a calculator.
+
+1. You are going to build a calculator to do addition and division of two integer numbers. Each calculator will appear as a separate form for the user on the initial page, which will be contained in index.php. Begin by creating the two forms. Give each one a heading stating what the calculator will do. Be sure to include two number inputs for each form and a submit button.
+2. Each form needs to be submitted to its own file on the back-end so that the correct math gets performed with the two numbers.
+3. We need to decide which method to use for our forms. Since we’d like to be able to share our calculations with friends via URL, let’s use GET as the form method. Set this on both forms.
+4. To enable processing the inputs with PHP, give each input a unique name.
+5. Now, try printing just the correct result within addition.php.
+6. Update addition.php to have a more helpful message including what numbers were added.
+7. Now, implement the back-end processing for division.php.
+
+
+
 
 
 
